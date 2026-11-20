@@ -1,3 +1,13 @@
 {
-  "mcpServers": {}
+  "mcpServers": {
+    "ai-game-developer": {
+      "args": [
+        "port=28588",
+        "plugin-timeout=10000",
+        "client-transport=stdio",
+        "project=3c012f82"
+      ],
+      "command": "F:/Proyectos/MIJUEGO/Mechanic/Library/mcp-server/win-x64/gamedev-mcp-server.exe"
+    }
+  }
 }
